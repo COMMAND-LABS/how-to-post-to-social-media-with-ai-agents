@@ -22,3 +22,7 @@ Publish
 - https://docs.anthropic.com/en/docs/mcp
 - https://github.com/domdomegg/airtable-mcp-server
 - https://help.metricool.com/en/article/how-to-connect-metricools-mcp-1364s63/##chatgpt
+
+## Clone Airtable Schema
+
+https://airtable.com/appUVoAQrSl5zTFJh/shrp7bzpnoI1d1gLl
