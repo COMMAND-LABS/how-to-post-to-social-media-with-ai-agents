@@ -4,11 +4,11 @@ Accompanying repo for the "How to post to Social Media with AI Agents" video.
 
 ## Gist of how this system works
 
-Compile Social Media Content
-Review (Human-in-the-Loop)
-Schedule
-Review (Human-in-the-Loop)
-Publish
+- Compile Social Media Content
+- Review (Human-in-the-Loop)
+- Schedule
+- Review (Human-in-the-Loop)
+- Publish
 
 ## System components (PART A)
 
