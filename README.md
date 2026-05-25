@@ -10,7 +10,7 @@ Accompanying repo for the "How to post to Social Media with AI Agents" video.
 - Review (Human-in-the-Loop)
 - Publish
 
-## System components (PART A)
+## System components
 
 - Airtable (https://airtable.com/)
 - Claude (https://claude.com/download)
