@@ -1,22 +1,23 @@
 # TLDR
 
-Extra Info regarding "Compilation"
+Info regarding "Distribution"
 
 ## Gist of how this works
 
-- Set up your Airtable account (1-click install below)
-- Connect Claude Desktop with your Airtable account via MCP
-  - https://github.com/domdomegg/airtable-mcp-server
-- Prompt Claude to write your marketing copy for you
-- Review (Human-in-the-Loop)
-- Approve
-- Move on to "Distribution"
+- Sign up for Metricool (1-click install below)
+  - You will need the "Advanced" Plan currently priced at $53/month (https://metricool.com/pricing)
+- Connect Claude Desktop with your Metricool via MCP
+  - https://help.metricool.com/how-to-connect-metricools-mcp-eqp9h
+- Prompt Claude to put all approved content in Airtable on your content calendar
+- Last Review (Human-in-the-Loop)
+- Do something more important in your life
 
 ## System components
 
 - Airtable (https://airtable.com/)
 - Claude Desktop (https://claude.com/download)
 - Google Cloud Storage (https://cloud.google.com/storage)
+- Metricool (https://metricool.com/)
 
 ## General MCP docs
 
